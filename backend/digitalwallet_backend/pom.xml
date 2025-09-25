@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>digitalwallet_backend</name>
 	<description>Digital Wallet App project for Spring Boot</description>
-	<packaging>war</packaging>
+	
 	<url/>
 	<licenses>
 		<license/>
@@ -72,7 +72,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>springbootdigitalwalletapi</finalName>
+	
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
